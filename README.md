@@ -57,7 +57,7 @@ A simple **WhatsApp-like chat application** built using **Android (Java)** and *
 
 ## 📁 Project Structure
 ```
-WhatsappClone--master
+ConnectX
 │
 ├── app
 │ ├── src/main/java/com/example/chatapp
@@ -92,7 +92,7 @@ git clone https://github.com/sreedevigidugu/WhatsappClone-
 cd WhatsappClone--master
 
 ```
-2️⃣ Open in Android Studio
+### 2️⃣ Open in Android Studio
 
 Open Android Studio
 
@@ -102,7 +102,7 @@ Select the project folder
 
 Wait for Gradle sync to complete
 
-3️⃣ Firebase Setup
+### 3️⃣ Firebase Setup
 
 Go to Firebase Console
 
@@ -115,7 +115,7 @@ Download google-services.json
 
 Place it inside:app/google-services.json
 
-4️⃣ Enable Firebase Services
+### 4️⃣ Enable Firebase Services
 🔐 Authentication
 
 Enable Anonymous Authentication
@@ -133,7 +133,7 @@ Set rules (for development only):{
   }
 }
 
-5️⃣ Run the App
+### 5️⃣ Run the App
 
 Connect a physical device or start an emulator
 
@@ -151,7 +151,7 @@ Open a group and start messaging
 
 Messages sync in real time
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 
 Email / Phone authentication
 
