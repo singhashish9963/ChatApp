@@ -56,7 +56,7 @@ A simple **WhatsApp-like chat application** built using **Android (Java)** and *
 ---
 
 ## 📁 Project Structure
-
+```
 WhatsappClone--master
 │
 ├── app
@@ -79,7 +79,7 @@ WhatsappClone--master
 ├── build.gradle.kts
 ├── settings.gradle.kts
 └── gradlew
-
+```
 
 
 ---
