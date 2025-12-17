@@ -1,4 +1,4 @@
-# 📱 WhatsApp Clone – Android (Firebase)
+# 📱ConnectX – Android (Firebase)
 
 A simple **WhatsApp-like chat application** built using **Android (Java)** and **Firebase**, implementing **real-time messaging, group chats, and authentication** using the **MVVM architecture pattern**.
 
